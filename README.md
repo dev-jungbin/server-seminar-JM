@@ -1,1 +1,1 @@
-# 29th-server-seminar
+# server-seminar-JM
